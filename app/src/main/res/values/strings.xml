@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">HungerApp</string>
+    <string name="burgers">Burgers</string>
 </resources>
